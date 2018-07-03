@@ -1,18 +1,16 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: My PowerShell World
+description: 'Things I have learnt in the PowerShell world'
+url: 'https://www.mmcollins.co.uk'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Matt Collins'
+  email: Matt@mmcollins.co.uk
+  twitter_username: TheMattCollins0
+  github_username:  TheMattCollins0
 
 defaults:
   -
